@@ -1,6 +1,6 @@
 # Luudi Bodycam
 
-Dette er en dansk oversættelse af kommentarer og dokumentation for `spy-bodycam`-ressourcen.
+Dette er en dansk oversættelse af kommentarer og dokumentation for `luudi-bodycam`-ressourcen.
 
 ## Oversigt
 Luudi Bodycam giver mulighed for bodycam- og dashcam-optagelser i FiveM. Optagelser kan uploades til Discord, FiveManage eller FiveMerr-tjenester.
@@ -29,5 +29,6 @@ Luudi Bodycam giver mulighed for bodycam- og dashcam-optagelser i FiveM. Optagel
 
 ## Bemærkninger
 - Kun kommentarer og README er oversat til dansk — funktionaliteten er uændret.
+
 
 Hvis du vil have yderligere oversættelser (fx UI-tekster eller meddelelser), sig til, så kan jeg oversætte dem også.
