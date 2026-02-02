@@ -6,8 +6,8 @@ Dette er en dansk oversættelse af kommentarer og dokumentation for `luudi-bodyc
 Luudi Bodycam giver mulighed for bodycam- og dashcam-optagelser i FiveM. Optagelser kan uploades til Discord, FiveManage eller FiveMerr-tjenester.
 
 ## Installation
-1. Placer mappen `spy-bodycam` i din resources-mappe.
-2. Tilføj `ensure spy-bodycam` i din `server.cfg`.
+1. Placer mappen `luudi-bodycam` i din resources-mappe.
+2. Tilføj `ensure luudi-bodycam` i din `server.cfg`.
 
 ## Brug
 - Start optagelse: brug kommandoen `/recordcam` i spillet (hvis aktiveret).
@@ -32,3 +32,4 @@ Luudi Bodycam giver mulighed for bodycam- og dashcam-optagelser i FiveM. Optagel
 
 
 Hvis du vil have yderligere oversættelser (fx UI-tekster eller meddelelser), sig til, så kan jeg oversætte dem også.
+
